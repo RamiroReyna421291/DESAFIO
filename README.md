@@ -1,4 +1,4 @@
-# 🔹 Desafío 2: Página temática con Bootstrap (obligatorio)
+# 🔹 Desafío: Página temática con Bootstrap
 
 ## 🧩 Objetivo del desafío
 
