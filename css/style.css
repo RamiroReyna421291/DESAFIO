@@ -1,0 +1,47 @@
+
+.carousel-item {
+    height: 65vh;
+    min-height: 350px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.carousel-item::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.carousel-caption {
+    bottom: 3rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+.card-img-top {
+    height: 250px; 
+    object-fit: cover; 
+}
+
+.card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+}
+
+body.d-flex {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+footer.mt-auto {
+    margin-top: auto !important;
+}
