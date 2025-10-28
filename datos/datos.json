@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "titulo": "Japón",
+    "descripcion": "Templos antiguos y neón futurista.",
+    "img": "galley/japon.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "Costa Rica",
+    "descripcion": "Pura vida en la selva tropical.",
+    "img": "gallery/costarica.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "Grecia",
+    "descripcion": "Historia y aguas cristalinas.",
+    "img": "gallery/greacia.jpg"
+  },
+  {
+    "id": 4,
+    "titulo": "Egipto",
+    "descripcion": "Tesoros del Nilo y pirámides.",
+    "img": "gallery/egipto.jpg"
+  },
+  {
+    "id": 5,
+    "titulo": "Perú",
+    "descripcion": "El legado Inca y Machu Picchu.",
+    "img": "gallery/peru.jpg"
+  },
+  {
+    "id": 6,
+    "titulo": "Noruega",
+    "descripcion": "Fiordos espectaculares y auroras.",
+    "img": "gallery/noruega.jpg"
+  },
+  {
+    "id": 7,
+    "titulo": "Italia",
+    "descripcion": "Arte, historia y gastronomía.",
+    "img": "gallery/italia.jpg"
+  },
+  {
+    "id": 8,
+    "titulo": "Australia",
+    "descripcion": "La gran barrera de coral.",
+    "img": "gallery/australia.jpg"
+  },
+  {
+    "id": 9,
+    "titulo": "Canadá",
+    "descripcion": "Montañas rocosas y lagos turquesa.",
+    "img": "gallery/canada.jpg"
+  },
+  {
+    "id": 10,
+    "titulo": "Tailandia",
+    "descripcion": "Playas exóticas y cultura vibrante.",
+    "img": "gallery/tailandia.jpg"
+  },
+  {
+    "id": 11,
+    "titulo": "Marruecos",
+    "descripcion": "Desiertos, mercados y especias.",
+    "img": "gallery/marruecos.jpg"
+  },
+  {
+    "id": 12,
+    "titulo": "Nueva Zelanda",
+    "descripcion": "Paisajes de película y aventura.",
+    "img": "gallery/nueva-zelanda.jpg"
+  }
+]
